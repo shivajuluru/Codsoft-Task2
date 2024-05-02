@@ -1,0 +1,63 @@
+/* styles.css */
+
+/* About Section */
+#about {
+  background-color: #f8f9fa; /* Light gray background */
+  padding: 60px 0; /* Add some padding */
+}
+
+#about h2 {
+  color: #333; /* Dark text color */
+  text-align: center; /* Center align heading */
+}
+
+#about p {
+  font-size: 18px; /* Increase font size */
+  line-height: 1.6; /* Add some line spacing */
+  color: #555; /* Dark gray text color */
+}
+
+/* Projects Section */
+#projects {
+  padding: 60px 0; /* Add some padding */
+}
+
+#projects h2 {
+  color: #333; /* Dark text color */
+  text-align: center; /* Center align heading */
+}
+
+.card {
+  margin-bottom: 30px; /* Add some margin between cards */
+}
+
+.card-title {
+  font-size: 24px; /* Increase font size */
+  color: #333; /* Dark text color */
+}
+
+.card-text {
+  color: #555; /* Dark gray text color */
+}
+
+/* Contact Section */
+#contact {
+  background-color: #f8f9fa; /* Light gray background */
+  padding: 60px 0; /* Add some padding */
+}
+
+#contact h2 {
+  color: #333; /* Dark text color */
+  text-align: center; /* Center align heading */
+}
+
+#contact p {
+  font-size: 18px; /* Increase font size */
+  line-height: 1.6; /* Add some line spacing */
+  color: #555; /* Dark gray text color */
+  text-align: center; /* Center align text */
+}
+
+#contact a {
+  color: #007bff; /* Blue link color */
+}
